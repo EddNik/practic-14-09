@@ -10,15 +10,15 @@ const user: User = { id: "1", name: "Charlie", age: 25, active: true };
 console.log("user", user);
 
 // !===============================================================
-let person = ["Max", 21];
+// let person = ["Max", 21];
 
 // !================================================================
 
-import axios from "axios";
+// import axios from "axios";
 
-interface Url {
-  url: string;
-}
+// interface Url {
+//   url: string;
+// }
 
 // async function fetchData(url: Url) {
 //   try {

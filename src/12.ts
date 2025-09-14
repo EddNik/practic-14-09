@@ -1,7 +1,7 @@
-function sendDoneStatus(callback: Callback) {
-  callback("done");
-}
+// function sendDoneStatus(callback: Callback) {
+//   callback("done");
+// }
 
-interface Callback {
-  (str: string): void;
-}
+// interface Callback {
+//   (str: string): void;
+// }
